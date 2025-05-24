@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 **B.Tech in Mechanical Engineering** | NIT Durgapur (2022–2026)  
+🎓 **B.Tech** | NIT Durgapur (2022–2026)  
 💡 Passionate about **AI, full-stack development**, and solving real-world problems  
 🚀 Building projects that merge **tech + impact**  
 🏆 Finalist – **Google Girl Hackathon 2025**  
