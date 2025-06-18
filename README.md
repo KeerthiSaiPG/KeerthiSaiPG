@@ -79,12 +79,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeerthiSaiPG&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KeerthiSaiPG&theme=tokyonight" alt="GitHub Streak">
+<!--   <img src="https://github-readme-streak-stats.vercel.app?user=KeerthiSaiPG&theme=tokyonight" alt="GitHub Streak"> -->
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiSaiPG&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
+
 
 ### 🤝 **Let’s Connect**
 
