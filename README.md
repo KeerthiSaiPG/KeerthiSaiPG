@@ -15,62 +15,80 @@
 
 ### 👩‍💻 About Me
 
-🎓 **B.Tech** | NIT Durgapur (2022–2026)  
+🎓 **B.Tech - Mechanical Engineering**, NIT Durgapur (2022–2026)   
 💡 Passionate about **AI, full-stack development**, and solving real-world problems  
-🚀 Building projects that merge **tech + impact**  
-🏆 Finalist – **Google Girl Hackathon 2025**  
-🧠 Lifelong learner currently exploring **Generative AI**, **Ai and ML**, and **Deep Learning**
+🚀 Building impactful tech projects in **tax tech, finance, and system tools**  
+🏆 Finalist – **Google Girl Hackathon 2025** (Top 76 out of 58,000+)  
+🧠 Currently exploring **Generative AI**, **LLMs**, and **Cloud AI Systems**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages:
-`C++` `Python` `SQL` `HTML` `CSS` `JavaScript`
+#### 💻 Languages:
+`C++` `Python` `JavaScript` `SQL` `HTML` `CSS`
 
-#### Tools & Frameworks:
-`React.js` `Streamlit` `Node.js` `Qt Designer` `Tailwind CSS`
+#### ⚙️ Frameworks & Libraries:
+`React.js` `Node.js` `Tailwind CSS` `Streamlit` `Qt Designer`
 
-#### AI & Data:
-`NumPy` `Pandas` `Matplotlib` `EasyOCR` `LLaMA` `Knapsack Algorithms` `Alpha Vantage API`
+#### 🤖 AI & ML:
+`scikit-learn` `LangChain` `Hugging Face Transformers` `OpenCV` `EasyOCR` `Meta-LLaMA` `CNN` `RNN` `GPT` `DALL·E`
 
-#### DevOps & Hosting:
-`Git` `GitHub` `Linux` `Vercel` `Google ADK`
+#### 📊 Data & Visualization:
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Power BI`
+
+#### ☁️ DevOps & Tools:
+`Git` `GitHub` `Linux` `Vercel` `VS Code` `MySQL` `Canva` `QtDesigner`
+
+#### 🌐 APIs:
+`REST APIs` `Alpha Vantage API` `NewsAPI`
 
 ---
 
 ### 🚀 Highlight Projects
 
 #### 🧾 [TaxEase – AI‑Powered Tax Assistant](https://github.com/KeerthiSaiPG/TaxEase.Ai)
-> 🧠 Streamlines tax filing for Indian salaried professionals  
-> 🔐 Secure onboarding with PAN authentication  
-> 📄 OCR-powered document extraction  
-> 💡 AI chatbot trained on 2025 tax laws  
-> 📈 Smart deduction optimization using Knapsack logic
+> 🔐 Secure onboarding via PAN authentication  
+> 📄 OCR-driven document extraction, 80% manual entry reduced  
+> 🧠 Real-time tax analysis using **KD-Trees + Knapsack Optimization**  
+> 💬 Chatbot built with **Meta-LLaMA 3.1**, trained on 2025 tax rules
 
 ---
 
 #### 📊 [Multi-Agent Stock Analyzer](https://github.com/KeerthiSaiPG/multi-agent-stock-analysis)
-> ⚙️ Uses Google ADK for modular agent communication  
-> 🔍 Real-time stock data + news aggregation via APIs  
-> 🧠 AI-led intent recognition and orchestration  
-> 📉 Trend analysis powered by financial algorithms
+> 🤖 Modular multi-agent system using **Google ADK**  
+> 📈 Real-time stock trends via **Alpha Vantage API** + News sentiment  
+> 🧠 Query routing via **intent parsing and orchestration**
 
 ---
 
 #### 💻 [Terminal Emulator (C++ & Qt)](https://github.com/KeerthiSaiPG/Terminal-Emulator-cpp-qt)
-> 🎛️ Fully functional Linux terminal emulator  
-> 🔧 Built with system calls and pseudo-terminal support  
-> 🧪 Deep dive into low-level Unix process control  
-> 🎨 Designed with Qt for GUI support
+> 🎛️ Emulated Linux terminal using pseudo terminals and system calls  
+> 🔁 Implemented bidirectional PTY communication  
+> 🔧 OOP-based structure with event-driven UI in Qt
+
+---
+
+### 📚 Coursework
+
+- ✅ Data Structures and Algorithms  
+- ✅ Operating Systems, DBMS, OOPs  
+- ✅ Computer Networks  
+- ✅ Artificial Intelligence and Machine Learning  
+- ✅ Generative AI & LLMs  
+- ✅ Cloud Computing (AWS)
 
 ---
 
 ### 🏆 Achievements
 
-- 🏅 **Top 76 out of 58,000+** in Google Girl Hackathon 2025  
-- 🧾 Completed **Google's Generative AI** Capstone Course  
-- 📜 Certified in **Git, GitHub, and AI Basics**  
+- 🏅 **Google Girl Hackathon 2025 Finalist** – Top 76 / 58,000+  
+- 🧠 Completed **Google's Generative AI** Capstone Course  
+- 📜 Certified in **Git, GitHub**, and AI Fundamentals  
+- 💻 Solved **300+ coding problems** across platforms:  
+  - LeetCode: 175+  
+  - GFG: 75+  
+  - CodeStudio: 60+
 
 ---
 
@@ -79,18 +97,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeerthiSaiPG&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="GitHub Stats">
   <br>
-<!--   <img src="https://github-readme-streak-stats.vercel.app?user=KeerthiSaiPG&theme=tokyonight" alt="GitHub Streak"> -->
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiSaiPG&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
 
-
-### 🤝 **Let’s Connect**
+### 🤝 Let’s Connect
 
 <div align="center">
-
   <a href="mailto:keerthisaipg@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -106,7 +120,6 @@
   <a href="https://github.com/KeerthiSaiPG">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
 </div>
 
 <!-- Footer -->
