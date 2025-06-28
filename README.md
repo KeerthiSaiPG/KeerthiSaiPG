@@ -29,10 +29,10 @@
 `C++` `Python` `JavaScript` `SQL` `HTML` `CSS`
 
 #### ⚙️ Frameworks & Libraries:
-`React.js` `Node.js` `Tailwind CSS` `Streamlit` `Qt Designer`
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Streamlit` `Qt Designer`
 
 #### 🤖 AI & ML:
-`scikit-learn` `LangChain` `Hugging Face Transformers` `OpenCV` `EasyOCR` `Meta-LLaMA` `CNN` `RNN` `GPT` `DALL·E`
+`scikit-learn` `LangChain` `Hugging Face Transformers` `OpenCV` `EasyOCR` `Meta-LLaMA`
 
 #### 📊 Data & Visualization:
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `Power BI`
@@ -76,18 +76,18 @@
 - ✅ Computer Networks  
 - ✅ Artificial Intelligence and Machine Learning  
 - ✅ Generative AI & LLMs  
-- ✅ Cloud Computing (AWS)
 
 ---
 
 ### 🏆 Achievements
 
-- 🏅 **Google Girl Hackathon 2025 Finalist** – Top 76 / 58,000+  
+- 🏅 **Google Girl Hackathon 2025 Finalist** – Top 76 / 58,000+
+- 🏅 Secured **AIR 1886** out of **450,000+** candidates in All India NCAT 2025
 - 🧠 Completed **Google's Generative AI** Capstone Course  
 - 📜 Certified in **Git, GitHub**, and AI Fundamentals  
 - 💻 Solved **300+ coding problems** across platforms:  
-  - LeetCode: 175+  
-  - GFG: 75+  
+  - LeetCode: 200+  
+  - GFG: 80+  
   - CodeStudio: 60+
 
 ---
