@@ -88,7 +88,7 @@
 - 💻 Solved **300+ coding problems** across platforms:  
   - LeetCode: 200+  
   - GFG: 80+  
-  - CodeStudio: 60+
+  - CodeNinjas: 60+
 
 ---
 
